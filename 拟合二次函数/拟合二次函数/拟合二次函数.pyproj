@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>c697644e-dc71-4a9e-846e-0b98f7257afc</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
-    <StartupFile>PythonApplication3.py</StartupFile>
+    <ProjectGuid>99c90a2a-1a50-4876-b54a-5582ad671e5e</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>拟合二次函数.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>拟合二次函数</Name>
-    <RootNamespace>PythonApplication3</RootNamespace>
+    <RootNamespace>拟合二次函数</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PythonApplication3.py" />
+    <Compile Include="拟合二次函数.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

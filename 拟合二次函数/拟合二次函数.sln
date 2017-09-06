@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "拟合二次函数", "PythonApplication3\拟合二次函数.pyproj", "{C697644E-DC71-4A9E-846E-0B98F7257AFC}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "拟合二次函数", "拟合二次函数\拟合二次函数.pyproj", "{99C90A2A-1A50-4876-B54A-5582AD671E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,8 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C697644E-DC71-4A9E-846E-0B98F7257AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C697644E-DC71-4A9E-846E-0B98F7257AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C90A2A-1A50-4876-B54A-5582AD671E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C90A2A-1A50-4876-B54A-5582AD671E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
